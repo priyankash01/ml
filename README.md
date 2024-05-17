@@ -29,7 +29,10 @@ Web Interface :
 Summary/ result
 
 The model predict which mushroom is poisonous & which is edible. 
+
 prediction window:
 
-![Uploading Screenshot 2024-05-17 at 7.21.00 AM.png…]()
+<img width="717" alt="prediction" src="https://github.com/priyankash01/ml/assets/142376337/cf73222b-a516-47c5-9409-640df698a67d">
+
+
 
